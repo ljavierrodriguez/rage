@@ -1,0 +1,7 @@
+{
+  "code": "rest_not_logged_in",
+  "message": "Actualmente no estás conectado.",
+  "data": {
+    "status": 401
+  }
+}
